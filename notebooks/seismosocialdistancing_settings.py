@@ -30,7 +30,7 @@ sitedesc = "Keysborough Secondary College, Victoria"
 
 data_provider = "http://auspass.edu.au:8080"
 logo = None # 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_SED_2014.png/220px-Logo_SED_2014.png'
-bans = {"2019-12-20 00:00":"Start of School Summer Holiday",
+bans = {
         "2020-01-28 00:00":"End of School Summer Holiday",
         "2020-03-18 00:00":'No Large Gatherings', 
         "2020-03-25 12:00":'Restaurants/Bars/Schools closed',
@@ -38,13 +38,13 @@ bans = {"2019-12-20 00:00":"Start of School Summer Holiday",
 
 
 reference = {"start": "2020-01-28 00:00",
-              "end":  "2020-03-18 00:00"}
+              "end":  "2020-03-24 00:00"}
 
 summer_hol = {"start":"2019-12-20 00:00",
               "end":  "2020-01-28 00:00"}
 
-lockdown   = {"start":"2020-03-19 00:00",
-              "end":  "2020-06-01 00:00"}
+lockdown   = {"start":"2020-03-24 00:00",
+              "end":  "2020-06-08 00:00"}
 
-reopening    = {"start":"2020-06-01 00:00"}
+reopening    = {"start":"2020-06-09 00:00"}
 
