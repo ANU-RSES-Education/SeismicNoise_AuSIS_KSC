@@ -38,6 +38,7 @@ bans = {
         "2020-04-10 00:00":"Easter", 
         "2020-06-09 00:00":"Schools open (VIC)", 
         "2020-07-07 00:00":"Restrictions re-imposed (VIC)"
+        "2020-10-07 00:00":"Schools open again (VIC)"
         }
 
 reference = {"start": "2020-01-28 00:00",
@@ -46,8 +47,8 @@ reference = {"start": "2020-01-28 00:00",
 summer_hol = {"start":"2019-12-20 00:00",
               "end":  "2020-01-28 00:00"}
 
-lockdown   = {"start":"2020-03-24 00:00",
-              "end":  "2020-06-08 00:00"}
+lockdown   = {"start":"2020-07-14 00:00",
+              "end":  "2020-10-00 00:00"}
 
-reopening    = {"start":"2020-06-09 00:00"}
+reopening    = {"start":"2020-10-07 00:00"}
 
